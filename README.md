@@ -1,4 +1,4 @@
-# Criando Ransomware para criptografar e descriptografar arquivo
+# Criando Ransomware com Python
 
 ### Ferramentas usadas
 * Python
