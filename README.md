@@ -13,12 +13,12 @@
 
 #### Biblioteca Usada: cryptography
 * Usamos a classe Fernet para realizar a criptografia simétrica.
-* 
+
 #### Funções principais:
 * Fernet.generate_key(): Gera uma chave de criptografia.
 * Fernet.encrypt(data): Criptografa os dados.
 * Fernet.decrypt(data): Descriptografa os dados.
-* 
+
 #### Estrutura do Código
 ##### Funções em encrypt.py
 * generate_key():
